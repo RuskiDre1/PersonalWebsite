@@ -1,0 +1,125 @@
+{
+  "main": {
+    "name":"Andrey Toderyan",
+    "description":"I am a Software Engineer with a focus on Full Stack development",
+    "image":"Profile.jpg",
+    "bio":"Bachelor of Computer Science graduate at Portland State University with hands-on experience in developing fintech web applications, automation, and satellite image transmission software. Fluent in English, Russian, and Ukrainian, he has interned at Apex Fintech Solutions showcasing proficiency in TypeScript, React, C++, Python, and more, with a passion for both software and web development.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "andreytoderyanmix@gmail.com",
+    "phone": "971 533 0798",
+    "github":"https://github.com/RuskiDre1",
+    "project":"https://github.com/RuskiDre1",
+    "address":{
+      "street":"",
+      "city":"Portland",
+      "state":"Oregon",
+      "zip": ""
+    },
+    "website": "https://github.com/RuskiDre1",
+    "resumedownload":"https://github.com/RuskiDre1",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/ANDREY.TODERYANME",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/andrey-toderyan-a98b73230/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/ruskidre/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/RuskiDre1",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Portland State University",
+        "degree":"Bachelors in Computer Science",
+        "graduated":"September 2023",
+        "description":"GPA: 3.5/4.0"
+      }
+    ],
+    "work":[
+      {
+        "company":"Apex Fintech Solutions",
+        "title":"Software Development Intern",
+        "years":"January 2023 - Present",
+        "description":"Collaborating to develop and maintain multiple Fintech Web Applications, Developing UI for asset management and transfers using TypeScript, React, and Chakra UI, Worked on Backend services with Graphql and grpcs"
+      },
+      {
+        "company":"Ukrainian Bible Church",
+        "title":"Front End Developer",
+        "years":"March 2017 - December 2023",
+        "description":"Managed a Wordpress site"
+      }
+    ],
+    "skills":[
+      {
+        "name":"C++",
+        "level":"90%"
+      },
+      {
+        "name":"C",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"JAVASCRIPT",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"50%"
+      },
+      {
+        "name":"JAVA",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"C++ Hangman Game",
+        "category":"Simple Hangman Game that runs in terminal",
+        "image":"Hangman.jpeg",
+        "url":"https://github.com/RuskiDre1/HangMan/"
+      },
+      {
+        "title":"Choco An Company",
+        "category":"The ChocAn simulator is a software intended to facilitate a central data system for ChocAn.",
+        "image":"Chocan.jpeg",
+        "url":"https://github.com/RuskiDre1/Chocoholics-Anonymous---term-project"
+      },
+      {
+        "title":"Ukrainian Bible Church",
+        "category":"Website I built for my Church",
+        "image":"Ubc_site.png",
+        "url":"Ukrainian Bible Church"
+      }
+    ]
+  }
+}
